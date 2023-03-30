@@ -1,1 +1,1 @@
-Hello DDD
+Hello DDD example
