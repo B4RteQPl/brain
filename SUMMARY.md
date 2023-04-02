@@ -1,6 +1,8 @@
 ‌# Summary​
 
-## Use headings to create page groups like this one​
+## Diary
+
+## Technologies
 
 * [First page's title](page1/README.md)    
     * [Some child page](page1/page1-1.md)    
@@ -10,6 +12,9 @@
     * [Some child page](page2/page2-1.md)    
     * [Some other child page](part2/page2-2.md)    
 
-## A second-page group​
+## Books
 
-* [Yet another page](another-page.md)
+* [programming](another-page.md)
+	* [Clean Code - Robert C. Martin](books/programming/clean-code-robert.md)
+	* [The Pragmatic Programmer - Andrew Hunt & David Thomas](books/programming/the-pragmatic-programmer.md)
+* [architecture](another-page.md)
