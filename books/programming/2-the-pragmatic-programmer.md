@@ -82,3 +82,5 @@ The book focuses on the mindset and practices that lead to pragmatic and effecti
         * Practice active listening and empathy.
         * Use clear, concise, and unambiguous language when discussing technical topics.
         * Leverage tools like version control, issue trackers, and collaboration platforms to facilitate
+
+[Order book on Amazon](https://www.amazon.com/dp/B0833FBNHV?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=dfde76611bb45b944b501ce3ac5ba37b&camp=1789&creative=9325)

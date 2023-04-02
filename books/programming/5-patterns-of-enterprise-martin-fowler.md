@@ -84,3 +84,5 @@ The book emphasizes the importance of well-designed architecture to ensure scala
 * **Combining and Customizing Patterns**:
     * Importance:
         * Use multiple patterns together to create more comprehensive solutions
+
+[Order book on Amazon](https://www.amazon.com/dp/0321127420?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=0c9cd7033ac63fda736baf4ddbfe0708&camp=1789&creative=9325)
