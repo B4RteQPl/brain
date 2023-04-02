@@ -1,5 +1,8 @@
-## Welcome to My Personal Knowledge Hub
 
+___ 
+
+#  Welcome to My Personal Knowledge Hub**
+ 
 _**A space where I share everything I've learned over the past years as a developer and software architect.**_
 
 This space was created primarily for myself, as a way to organize my thoughts and insights in one central location. However, I also believe that the information I share here can be valuable to others.
