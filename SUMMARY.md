@@ -1,7 +1,5 @@
 ‌# Summary​
 
-## Start
-* [Start Here](welcome.md)
 ## Books
 * [Programming](books/programming/README.md)
 	* [Clean Code - Robert C. Martin](books/programming/clean-code.md)
