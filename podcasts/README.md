@@ -6,3 +6,4 @@ Recommended Podcasts
 
 1. [Better Software Design - PL](1-better-software-design.md) -> [Open podcast](https://bettersoftwaredesign.pl)
 2. [Allegro Tech Podcast - PL](2-allegro-tech.md) -> [Open podcast](https://podcast.allegro.tech)
+3. [Around IT in 256 seconds - EN](3-around-it-in-256-seconds.md) -> [Open podcast](https://nurkiewicz.com/)
