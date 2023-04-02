@@ -2,7 +2,7 @@ As someone who has been involved in programming for many years, I know how impor
 
 Whether you're just starting out or have been programming for a while, these books can help you broaden your horizons and deepen your understanding. I wish you all the best in your programming journey!
 
-## Recommended programming books
+## Recommended books:
 1. [Clean Code - Robert C. Martin](1-clean-code.md) -> [Order on Amazon](https://www.amazon.com/dp/0132350882?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=9c101d8b9ded0b65d001bac670298715&camp=1789&creative=9325)
 2. [The Pragmatic Programmer - Andrew Hunt & David Thomas](2-the-pragmatic-programmer.md) -> [Order on Amazon](https://www.amazon.com/dp/B0833FBNHV?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=dfde76611bb45b944b501ce3ac5ba37b&camp=1789&creative=9325)
 3. [Refactoring: Improving the Design of Existing Code - Martin Fowler](3-refactoring-martin-fowler.md) -> [Order on Amazon](https://www.amazon.com/dp/B07LCM8RG2?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=6212fed3b9174c0a5edfc501f7071d26&camp=1789&creative=9325)
