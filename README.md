@@ -1,7 +1,5 @@
 
-___ 
-
-#  Welcome to My Personal Knowledge Hub**
+#  Welcome to My Personal Knowledge Hub
  
 _**A space where I share everything I've learned over the past years as a developer and software architect.**_
 
