@@ -1,4 +1,4 @@
-This list of concepts from "The Pragmatic Programmer" by Andrew Hunt and David Thomas is incredibly valuable for programmers, as it covers vital techniques and principles for crafting adaptable, maintainable, and efficient code. 
+This list of concepts from *The Pragmatic Programmer* by Andrew Hunt and David Thomas is incredibly valuable for programmers, as it covers vital techniques and principles for crafting adaptable, maintainable, and efficient code. 
 
 The book focuses on the mindset and practices that lead to pragmatic and effective software development, enhancing the overall software development process.
 
