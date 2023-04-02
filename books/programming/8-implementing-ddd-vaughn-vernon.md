@@ -1,4 +1,4 @@
-[Order on Amazon](https://www.amazon.com/dp/0321125215?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=60e0267eb917d629172bad88464ffea1&camp=1789&creative=9325)
+[Order Implementing Domain-Driven Design on Amazon](https://www.amazon.com/dp/0321834577?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=efc10f6f666110110e3941bbd0686273&camp=1789&creative=9325)
 
 This book covers essential concepts and techniques for implementing Domain-Driven Design (DDD) in software development, focusing on creating maintainable, scalable, and adaptable software systems.
 

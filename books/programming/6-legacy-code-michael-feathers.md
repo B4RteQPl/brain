@@ -1,3 +1,6 @@
+[Order Working Effectively with Legacy Code on Amazon](https://www.amazon.com/dp/0131177052?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=b4b2d1641c9bcf2a6f125e3c0e375b5c&camp=1789&creative=9325)
+
+
 This list of concepts from *Working Effectively with Legacy Code* by Michael Feathers is essential for programmers, as it covers critical techniques for dealing with existing codebases that lack proper documentation, tests, or clear structure.
 
 The book emphasizes the importance of improving legacy code to ensure maintainability, reliability, and efficiency in software development.
@@ -77,5 +80,3 @@ The book emphasizes the importance of improving legacy code to ensure maintainab
     * Importance:
         * Ensure that legacy code remains stable and functional as changes are made.
         * Catch
-
-[Order book on Amazon](https://www.amazon.com/dp/0131177052?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=b4b2d1641c9bcf2a6f125e3c0e375b5c&camp=1789&creative=9325)

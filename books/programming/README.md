@@ -1,14 +1,3 @@
 As someone who has been involved in programming for many years, I know how important it is to have a solid foundation and to keep learning. With that in mind, I've put together a list of programming books that I believe can help anyone looking to improve their skills and knowledge. 
 
 Whether you're just starting out or have been programming for a while, these books can help you broaden your horizons and deepen your understanding. I wish you all the best in your programming journey!
-
-## Recommended books:
-1. [Clean Code - Robert C. Martin](1-clean-code.md) -> [Order on Amazon](https://www.amazon.com/dp/0132350882?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=9c101d8b9ded0b65d001bac670298715&camp=1789&creative=9325)
-2. [The Pragmatic Programmer - Andrew Hunt & David Thomas](2-the-pragmatic-programmer.md) -> [Order on Amazon](https://www.amazon.com/dp/B0833FBNHV?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=dfde76611bb45b944b501ce3ac5ba37b&camp=1789&creative=9325)
-3. [Refactoring: Improving the Design of Existing Code - Martin Fowler](3-refactoring-martin-fowler.md) -> [Order on Amazon](https://www.amazon.com/dp/B07LCM8RG2?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=6212fed3b9174c0a5edfc501f7071d26&camp=1789&creative=9325)
-4. [Design Patterns: Elements of Reusable Object-Oriented Software ](4-design-patterns-gangs-of-four.md) -> [Order on Amazon](https://www.amazon.com/dp/0201633612?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=94d1a77c9fd50667d19e965bdfc22cf6&camp=1789&creative=9325)
-5. [Patterns of Enterprise Application Architecture - Martin Fowler](5-patterns-of-enterprise-martin-fowler.md) -> [Order on Amazon - Martin Fowler](https://www.amazon.com/dp/0321127420?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=0c9cd7033ac63fda736baf4ddbfe0708&camp=1789&creative=9325)
-6. [Working Effectively with Legacy Code - Michael Feathers](6-legacy-code-michael-feathers.md) -> [Order on Amazon](https://www.amazon.com/dp/0131177052?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=b4b2d1641c9bcf2a6f125e3c0e375b5c&camp=1789&creative=9325)
-7. [Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans](7-ddd-eric-evans.md) -> [Order on Amazon](https://www.amazon.com/dp/0321125215?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=687c92383fca7db03e517806c2e605aa&camp=1789&creative=9325)
-8. [Implementing Domain-Driven Design - Vaughn Vernon](8-implementing-ddd-vaughn-vernon.md) -> [Order on Amazon](https://www.amazon.com/dp/0321125215?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=60e0267eb917d629172bad88464ffea1&camp=1789&creative=9325)
-9. [The Clean Coder: A Code of Conduct for Professional Programmers - Robert Martin](9-the-cleaner-coder-robert-c-martin.md) -> [Order on Amazon](https://www.amazon.com/dp/0137081073?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=43b34878e33e2b59b503430ee3073e2e&camp=1789&creative=9325)

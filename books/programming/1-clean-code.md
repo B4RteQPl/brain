@@ -1,3 +1,5 @@
+[Order Clean Code: A Handbook of Agile Software Craftsmanship on Amazon](https://www.amazon.com/dp/0132350882?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=9c101d8b9ded0b65d001bac670298715&camp=1789&creative=9325)
+
 This list of concepts from *Clean Code* by Robert C. Martin is highly useful for programmers as it covers essential techniques and principles for writing clean, maintainable, and reliable code.
 
 Here is a list of essential coding concepts from book:
@@ -74,5 +76,4 @@ Here is a list of essential coding concepts from book:
 * Techniques:
 	- Use code smells and automated tools to identify areas of code that need refactoring. 
 	- Refactor code using proven techniques such as extracting methods, consolidating duplicate code, and eliminating dead code.
-		
-[Order on Amazon](https://www.amazon.com/dp/0132350882?&_encoding=UTF8&tag=architect011b-20&linkCode=ur2&linkId=9c101d8b9ded0b65d001bac670298715&camp=1789&creative=9325)
+	
